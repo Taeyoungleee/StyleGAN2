@@ -9,3 +9,9 @@
 
 > 휴대폰 케이스 이미지 130장
 > 제조 데이터 이미지 32장 
+
+## 이용 모델  
+
++ StyleGAN3
+[참고](https://github.com/NVlabs/stylegan3)
+  
