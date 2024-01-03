@@ -13,6 +13,6 @@
 ## 이용 모델  
 
 + StyleGAN3  
-[참고](https://github.com/NVlabs/stylegan3)  
+[StyleGAN3 모델](https://github.com/NVlabs/stylegan3)  
 ------------------------------------------------------------------------------------------
 ## 방법  
