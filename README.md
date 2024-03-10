@@ -34,7 +34,7 @@
 1. 데이터 수가 비교적 적을때 batch_size가 높으면 학습이 진행될수록 이미지 뭉개짐 현상 발생  
 ![GAN실패](https://github.com/Taeyoungleee/StyleGAN3/assets/113446739/e426fa84-e035-427a-8dd3-2fe1f4d1f42a)  
 2. 비교적 비슷한 이미지로 학습 진행시 학습이 잘 진행됨(특징이 다양한 이미지 넣으면 학습 어려움)  
-![GAN성공](https://github.com/Taeyoungleee/StyleGAN3/assets/113446739/174e5d18-33af-4ecf-9558-aad5d7feceb5)  
+![제조데이터](https://github.com/Taeyoungleee/StyleGAN2/assets/113446739/66b1ce14-7468-4026-a741-3116c8e615de)    
 3. GAN모델 학습시 Batch_size는 보통 4가 적당  
 4. 학습시간이 매우 오래걸리고 웬만한 환경에서는 잘 돌아가지 않는 것이 단점
 5. 다양한 실험을 진행해 좋은 결과를 얻어내기에 부적합  
