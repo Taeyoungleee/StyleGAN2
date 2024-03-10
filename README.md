@@ -1,4 +1,4 @@
-# StyleGAN3
+# StyleGAN2
 
 ## Make Fake images  
 
